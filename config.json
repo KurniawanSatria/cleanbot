@@ -1,0 +1,16 @@
+{
+  "downloads": "C:\\Users\\satzz\\Downloads",
+  "tempDirs": ["C:\\\\Windows\\\\Temp", "C:\\\\Users\\\\satzz\\\\AppData\\\\Local\\\\Temp"],
+  "maxAgeDays": 30,
+  "discordWebhook": "https://discord.com/api/webhooks/1541288375603044372/BTVur6hHyvLMqB9E_LBkEqcfPrNx2v3xnVuGoqt4IsRYlQAJdA0rTujOi8bcoSzp74H5?with_components=true&wait=true",
+  "logFile": "scheduler.log",
+  "sortRules": {
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp", ".ico", ".tiff"],
+    "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv", ".webm"],
+    "Audio": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".wma", ".m4a"],
+    "Documents": [".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".txt", ".csv", ".rtf", ".odt"],
+    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz"],
+    "Executables": [".exe", ".msi", ".bat", ".cmd", ".ps1"],
+    "Code": [".js", ".ts", ".py", ".java", ".cpp", ".c", ".h", ".css", ".html", ".json", ".xml", ".yaml", ".yml"]
+  }
+}

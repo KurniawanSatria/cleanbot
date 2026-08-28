@@ -1,0 +1,69 @@
+# Build and generated files
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.log
+*.tmp
+*.temp
+*.cache
+*.dll
+*.exe
+*.pdb
+*.aps
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / .NET
+.vs/
+.vscode/
+TestResults/
+*.db
+*.db-shm
+*.db-wal
+*.coverage
+*.coveragexml
+*.publish.xml
+*.nupkg
+packages/
+*.rsuser
+*.pidb
+*.booproj
+*.svd
+*.pfx
+*.publishproj
+
+# Rider / IntelliJ / JetBrains
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Node / frontend (if applicable)
+node_modules/
+.npm/
+.env
+.env.*
+
+# Local secrets and config
+secrets.json
+appsettings.Development.json
+local.settings.json
+
+# Git / backup files
+*.orig
+*.rej
+*.swp
+*.swo
+
+# Misc
+*.bak
+*.old
+scheduler.log
